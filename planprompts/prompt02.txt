@@ -1,0 +1,2 @@
+Main character: <<COMPLETION1>>
+brainstorm a detailed synopsis for a literary novel, :including final climax of the story and all spoilers.   Use the above character as the main protagonist. Use 500 words, about 6 paragraphs:
