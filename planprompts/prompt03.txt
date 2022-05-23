@@ -1,8 +1,8 @@
-Main character: <<COMPLETION1>>
+protagonist: <<COMPLETION1>>
 
 Synopsis: <<COMPLETION2>>
 
-Brainstorm the antagonist in the above story.
+Brainstorm the antagonist, the protagonist's main enemy in the above story.
 imagine:
 1. Name
 2. a two sentence description of the character's personality, internal contradictions and inner conflict
