@@ -1,0 +1,15 @@
+protagonist: <<COMPLETION1>>
+\n
+Synopsis: <<COMPLETION2>>
+\n
+\n
+Antagonist: <<ANTAGONIST>>
+\n
+Other characters: <<CAST>>
+\n
+Subplots: <<SUBPLOTS>>
+\n\n
+Beat sheet:<<BEATSHEET>>
+\n\n
+imagine the story as 100 scenes. Brainstorm each scene as a complete story with a beginning, middle and end with specific details about place, people present and emotional change. each scene takes place in a different location or at a different time: 
+\n\nSCENE001:\n

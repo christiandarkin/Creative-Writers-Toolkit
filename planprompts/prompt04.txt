@@ -1,0 +1,10 @@
+protagonist: <<COMPLETION1>>
+\n
+Synopsis: <<COMPLETION2>>
+\n
+\n
+Antagonist: <<ANTAGONIST>>
+\n
+Other characters:
+Imagine the other characters in the story, their names, descriptions of their looks, personalities and desires. Identify the love interest, mentor, comic relief, and supporting characters Use 100 words for each character.
+\n\n Love interest:\n

@@ -1,0 +1,13 @@
+protagonist: <<COMPLETION1>>
+\n
+Synopsis: <<COMPLETION2>>
+\n
+\n
+Antagonist: <<ANTAGONIST>>
+\n
+Other characters: <<CAST>>
+\n\n
+Scene list:<<SCENELIST>>
+\n\n
+Imagine <<SCENENUMBER>> as a film script in standard Hollywood format.  Brainstorm Locations, action and dialog:
+\n

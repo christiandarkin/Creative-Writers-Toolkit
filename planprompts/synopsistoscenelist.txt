@@ -1,0 +1,14 @@
+<<BREAKDOWNEXAMPLE>>
+
+EXTRA INFO
+<<EXTRAINFO>>
+
+Now break the following synopsis down into roughly <<NUMSCENES>> scenes.  brainstorm each scene adding detail, character and story. Use the extra info above to inspire extra detail:
+
+SYNOPSIS:
+
+<<SYNOPSIS>>
+
+BREAKDOWN:
+
+SCENE001:

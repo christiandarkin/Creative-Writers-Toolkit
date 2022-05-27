@@ -1,12 +1,25 @@
-Brainstorm a quirky or unusual character who could be the basis of a literary novel.
-imagine:
-1. Name
-2. a two sentence description of the character's personality, internal contradictions and inner conflict
-3 a paragraph describing what the character looks and sounds like, written in the style and voice of the novel
-4 a history of the character's life up to now
-5 archetype
-6 quirks and flaws
-7 a description of the character using the big 5 personality traits psychological assessment method
+Brainstorm a quirky or unusual character fromn who could be found in a <<STORYTYPE>> novel or film.
+\n
+\nUse the following supporting information to shape the character:
+\n<<SUPPORTINGFILES>>
+ \n
+<<TWEAK>>
+ \n
+ \n2
+Now create the character.  Imagine:
+ \n1) Name:
+ \n2
+ \n2) A two sentence de1scription of the character's personality, internal contradictions and inner conflict
+ \n
+ \n3) A paragraph describing what the character looks and sounds like, written in the style and voice of the novel
+ \n
+ \n4) A history of the character's life up to now
+ \n
+ \n5) Archetype
+ \n
+ \n6) Quirks and flaws
+ \n
+ \n7) A description of the character using the big 5 personality traits psychological assessment method
 
-Protagonist:
-1.
+Character:
+ \n1)

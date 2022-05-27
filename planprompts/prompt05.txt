@@ -1,0 +1,11 @@
+protagonist: <<COMPLETION1>>
+\n
+Synopsis: <<COMPLETION2>>
+\n
+\n
+Antagonist: <<ANTAGONIST>>
+\n
+Other characters: <<CAST>>
+\n
+Imagine the subplots that this story might have aside from the main plot:
+\n\n1.

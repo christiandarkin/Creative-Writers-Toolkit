@@ -1,0 +1,20 @@
+EXAMPLE OF SYNOPSIS AND SCREENPLAY LAYOUT
+<<SCRIPTEXAMPLE>>
+
+
+BACKGROUND INFORMATION:
+<<BACKGROUND>>
+
+NOTES FOR SCENES TO BE WRITTEN:<<NOTES>>
+THE STORY SO FAR:
+<<STORYSOFAR>>
+
+Using standard script formats for Hollywood screenplay, continue the script with a detailed scene(s) for a film using the synopsis below. Tell the story contained in the following synopsis.
+SYNOPSIS: <<SCENESYNOPSIS>>
+
+SCREENPLAY:
+
+<<PREVIOUSSCENE>>
+
+SYNOPSIS: <<SCENESYNOPSIS2>>
+

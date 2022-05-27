@@ -1,0 +1,12 @@
+BACKGROUND INFORMATION FOR <<STORYTYPE> STORY:
+\n<<SUPPORTINGFILES>>
+\n\n<<TWEAK>>
+\n\n\n
+
+Break the following synopsis down into 50 scenes.  brainstorm each scene in detail with additional subplots inspired by the Background information above:
+\n
+<<SYNOPSIS>>
+\n
+\nSCENE BREAKDOWN:
+\n
+SCENE001:

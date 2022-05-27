@@ -1,0 +1,13 @@
+protagonist: <<COMPLETION1>>
+\n
+Synopsis: <<COMPLETION2>>
+\n
+\n
+Antagonist: <<ANTAGONIST>>
+\n
+Other characters: <<CAST>>
+\n
+Subplots: <<SUBPLOTS>>
+\n\n
+Brainstorm a 'save the cat' beat sheet for the above story:
+\n\nOpening image:
