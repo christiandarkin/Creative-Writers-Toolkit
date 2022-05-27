@@ -1,2 +1,3 @@
-# Novel_planner
-use gpt3 to brainstorm ideas for long form fiction (novels, screenplays, etc.)
+Creative Writers' Toolkit
+Use artificial intelligence (GPT3) To help with the development of stories, screenplays and novels.
+Stretching the creativity of AI to its limits...
