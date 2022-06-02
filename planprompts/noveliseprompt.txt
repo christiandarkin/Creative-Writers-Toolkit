@@ -1,0 +1,5 @@
+Examples of screenplay scenes rewritten as novelisation:
+
+<<SCRIPTEXAMPLE>>
+NOVELISATION:
+<NOVELISATIONEXAMPLE>>

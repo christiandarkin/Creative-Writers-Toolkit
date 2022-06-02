@@ -1,0 +1,19 @@
+REWRITE EXAMPLES:
+
+<<VOICESTYLE>>
+
+____________________________________________________
+
+CONTEXT:
+
+<<PRIMER>>
+
+____________________________________________________
+
+BRAINSTORM A REWRITE OF THE FOLLOWING PASSAGE, USING THE REWRITE EXAMPLES ABOVE TO INSPIRE THE STYLE OF THE WRITING:
+
+NEUTRAL PROSE:
+
+<<TOBEREWRITTEN>>
+
+REWRITE:

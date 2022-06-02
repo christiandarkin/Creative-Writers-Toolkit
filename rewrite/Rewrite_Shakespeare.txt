@@ -1,0 +1,65 @@
+Examples of neutral text rewritten in the style of William Shakespeare:
+
+NEUTRAL PROSE: life is just a performance.  People live their lives, change as they age.  They finally entre a second childhood, then die.
+
+REWRITE: All the world’s a stage,
+And all the men and women merely players;
+They have their exits and their entrances,
+And one man in his time plays many parts,
+His acts being seven ages. At first, the infant,
+Mewling and puking in the nurse’s arms.
+Then the whining schoolboy, with his satchel
+And shining morning face, creeping like snail
+Unwillingly to school. And then the lover,
+Sighing like furnace, with a woeful ballad
+Made to his mistress’ eyebrow. Then a soldier,
+Full of strange oaths and bearded like the pard,
+Jealous in honor, sudden and quick in quarrel,
+Seeking the bubble reputation
+Even in the cannon’s mouth. And then the justice,
+In fair round belly with good capon lined,
+With eyes severe and beard of formal cut,
+Full of wise saws and modern instances;
+And so he plays his part. The sixth age shifts
+Into the lean and slippered pantaloon,
+With spectacles on nose and pouch on side;
+His youthful hose, well saved, a world too wide
+For his shrunk shank, and his big manly voice,
+Turning again toward childish treble, pipes
+And whistles in his sound. Last scene of all,
+That ends this strange eventful history,
+Is second childishness and mere oblivion,
+Sans teeth, sans eyes, sans taste, sans everything.
+
+NEUTRAL PROSE: I know a place where there are flowers.  Titania sometimes sleeps there after dancing.  I'm going to put a magic potion into her eyes so that she has bad dreams.
+
+REWRITE: I know a bank where the wild thyme blows,
+Where oxlips and the nodding violet grows,
+Quite over-canopied with luscious woodbine,
+With sweet musk-roses and with eglantine:
+There sleeps Titania sometime of the night,
+Lull’d in these flowers with dances and delight;
+And there the snake throws her enamell’d skin,
+Weed wide enough to wrap a fairy in:
+And with the juice of this I’ll streak her eyes,
+And make her full of hateful fantasies.
+
+NEUTRAL PROSE:You English must go into battle now.  It's time to fight like tigers.  Be angry, and frighten your enemy.
+
+REWRITE:Once more unto the breach, dear friends, once more;
+Or close the wall up with our English dead.
+In peace there’s nothing so becomes a man
+As modest stillness and humility:
+But when the blast of war blows in our ears,
+Then imitate the action of the tiger;
+Stiffen the sinews, summon up the blood,
+Disguise fair nature with hard-favour’d rage;
+Then lend the eye a terrible aspect;
+Let pry through the portage of the head
+Like the brass cannon; let the brow o’erwhelm it
+As fearfully as doth a galled rock
+O’erhang and jutty his confounded base,
+Swill’d with the wild and wasteful ocean.
+Now set the teeth and stretch the nostril wide,
+Hold hard the breath and bend up every spirit
+To his full height.

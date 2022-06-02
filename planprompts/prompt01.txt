@@ -1,25 +1,23 @@
 Brainstorm a quirky or unusual character fromn who could be found in a <<STORYTYPE>> novel or film.
-\n
-\nUse the following supporting information to shape the character:
-\n<<SUPPORTINGFILES>>
- \n
+
+Use the following supporting information to shape the character:
+<<SUPPORTINGFILES>>
+ 
 <<TWEAK>>
- \n
- \n2
+ 
+ 
 Now create the character.  Imagine:
- \n1) Name:
- \n2
- \n2) A two sentence de1scription of the character's personality, internal contradictions and inner conflict
- \n
- \n3) A paragraph describing what the character looks and sounds like, written in the style and voice of the novel
- \n
- \n4) A history of the character's life up to now
- \n
- \n5) Archetype
- \n
- \n6) Quirks and flaws
- \n
- \n7) A description of the character using the big 5 personality traits psychological assessment method
+1) Name:
+ 
+2) A two sentence de1scription of the character's personality, internal contradictions and inner conflict
+
+3) A paragraph describing what the character looks and sounds like, written in the style and voice of the novel
+
+4) A history of the character's life up to now
+
+5) Archetype
+6) Quirks and flaws
+7) A description of the character using the big 5 personality traits psychological assessment method
 
 Character:
- \n1)
+1)
