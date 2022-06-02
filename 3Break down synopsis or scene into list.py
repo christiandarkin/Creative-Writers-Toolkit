@@ -75,7 +75,7 @@ if __name__ == '__main__':
     with open(root.filename, "r", encoding='utf-8') as f:
         completion7 = f.read()
     root.destroy()
-    
+    extrainfo=""
     inputy = input("load extra background info y/n:")     
     if inputy =="y":
       root = Tk()
@@ -119,7 +119,7 @@ if __name__ == '__main__':
      completion9=completion8
      completion8 = completion8.replace(r'\n', '\n')
      #completion8="SCENE001: "+completion8
-     completion8="SCENE001:"+completion8
+     completion8="SCENE0001:"+completion8
      print(completion8)
      print("1 Accept and save")
      print("2 This is crap.  Redo")
@@ -158,6 +158,7 @@ if __name__ == '__main__':
          print('You don"t need it and you can add additional files to fine-tune each scene before writing.')
          print('However, it can help add detail (for example, about the world of the story, or the way characters behave)')
          primerfile=input('Primer (y/n)')
+         primer=""
          if primerfile=="y":
              root = Tk()
              root.filename =  askopenfilename(initialdir = "/",title = "Select scene file",filetypes = (("text files","*.txt"),("all files","*.*")))
@@ -175,7 +176,7 @@ if __name__ == '__main__':
          textu = textu.replace('\r', '').replace('\n', '')
          textu=textu+"END"
          print(textu)
-         scenes = re.findall("SCENE\d\d\d", textu)
+         scenes = re.findall("SCENE\d\d\d\d", textu)
          #folder="scenes/"
          print(scenes)
          full_script=""
