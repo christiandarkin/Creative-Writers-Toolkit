@@ -1,0 +1,3 @@
+CHARACTER1: does this
+CHARACTER2: does that
+CHARACTER1: says:

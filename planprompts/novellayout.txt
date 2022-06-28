@@ -1,0 +1,9 @@
+FORMAT EXAMPLE:
+CHARACTERS:
+CHARACTER1:  DAVE, A MAN
+CHARACTER2: SUSAN, A WOMAN
+SCREENPLAY
+CHARACTER1:"I know what you're thinking," said Dave.
+
+CHARACTER2: Susan glared at him.  "Do you, Dave?  Do you really?" The words came out like machine-gun fire.
+

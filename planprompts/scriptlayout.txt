@@ -1,0 +1,25 @@
+FORMAT EXAMPLE:
+CHARACTERS:
+DAVE:  A MAN
+SUSAN: A WOMAN
+SCREENPLAY:
+
+INT.A ROOM.DAY.
+
+(Fade up)
+
+An empty room.  Dark shadows fall across the floor, cast by the bulb of a single light.  There are no windows.  The walls are white.  DAVE and SUSAN are standing opposite each other, staring.
+
+
+		DAVE
+I know what you're thinking.
+
+		SUSAN
+Do you, Dave?  Do you really?
+
+(PAUSE)
+
+		DAVE
+(SHRUGS) No, I know nothing.  Nothing at all.
+
+Cuts to:
