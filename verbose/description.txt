@@ -1,0 +1,16 @@
+DESCRIPTION:
+Replace this with a few notes, and it will be replaced by a colourful description
+END
+
+brainstorm an extended and expounded version of this description using lots more detail, colourful language.  imagine a more verbose description in an expanded litterary style.  Use 100 words, 1 paragraph:
+
+DESCRIPTION:the living room was lit by the streetlamp outside.  the room was a mess, all joy had gone.  she could not leave the room.
+
+EXTENDED VERSION: Yellow slashes carved their paths to draws open like broken teeth.  Sofas slept diagonally across the space between flattened cushions. Jagged anger made of brittle glass shone dully in everythign touched by moonlight. It had been like this since he left.   Clothes thrown carelessly over surfaces.  An ashtray, still half full, precariously balanced on the arm of the chair.  No, she could not leave this room.  It was her prison, and it was all she deserved.
+
+brainstorm an extended and expounded version of this description using lots more detail, colourful language.  imagine a more verbose description in an expanded litterary style.  Use 500 words, 7 paragraphs at least  Add to the description, but not the story:
+
+DESCRIPTION:
+<<TEXT>>
+
+EXTENDED VERSION:

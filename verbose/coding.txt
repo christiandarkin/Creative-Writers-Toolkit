@@ -1,0 +1,40 @@
+DESCRIPTION:
+Code your writing in the following format...
+
+CODE:
+@d=description
+@c=dialog
+@a=action
+
+WRITE:
+@d.tree (old, gnarled, threatening)
+@c.me.tree.shouting(why you here, what you want)
+@a.me.tree.chop_down(axe.heavy.old, hard work)
+  while tree==up
+	@a.tree.thrash_around()
+  if tree==fallen
+	@a.me.burn.tree()
+END
+
+CODE:
+@d=description
+@c=dialog
+@a=action
+
+WRITE:
+@d.tree (old, gnarled, threatening)
+@c.me.tree.shouting(why you here, what you want)
+@a.me.tree.chop_down(axe.heavy.old, hard work)
+
+RESULT:
+The tree was ancient.  Its gnarled roots clung to the ground as though holding on against the cruel wind.  The boughs twisted strangely skywards then leered down again, leaning curling down over me.  I had no choice but to picture the twigs reaching, curling around my throat.
+
+"why are you here?" I roared up at the branches. "What do you want from me?"
+
+I forced myself forward, hauling up the axe in my hands.  It was heavy.  I swung it back, hurled it at the trunk of the tree.  The blade was old and dull, but the bark splintered all the same.  I swung again and again until the trunk was a yellow, splintered wound.
+
+WRITE:
+<<TEXT>>
+
+
+RESULT:

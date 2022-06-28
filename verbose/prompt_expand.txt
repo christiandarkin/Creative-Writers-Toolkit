@@ -1,0 +1,14 @@
+DESCRIPTION:
+Write another passage to follow the first. Explore and elaborate on the ideas listed below.
+Paste in ideas (NOTES), followed by
+FIRST PASSAGE:
+Followed by passage
+
+END
+
+Write another passage to follow the first. Explore and elaborate on the ideas listed below.
+
+IDEAS:
+<<TEXT>>
+
+NEXT PASSAGE BASED ON ABOVE IDEAS:
