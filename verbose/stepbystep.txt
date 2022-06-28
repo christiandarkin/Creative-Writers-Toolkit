@@ -1,6 +1,0 @@
-DESCRIPTION:
-let's think step by step
-END
-
-<<TEXT>>
-Let's think step by step:

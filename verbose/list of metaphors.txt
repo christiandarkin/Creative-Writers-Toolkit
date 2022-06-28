@@ -1,8 +1,0 @@
-DESCRIPTION:
-Replace this with some text and it will brainstorm a list of details to improve and expand the writing
-END
-IMAGINE 15 METAPHORS WHICH MIGHT MAKE THE DESCRIPTION BELOW MORE EVOCATIVE:
-<<TEXT>> The End.
-
-METAPHORS, DESCRIPTIONS AND EMBELISHMENTS TO THE ABOVE, WRITTEN IN THE STYLE OF A LITERARY NOVEL(1-15): 
-1.
