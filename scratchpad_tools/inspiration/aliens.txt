@@ -1,0 +1,8 @@
+DESCRIPTION:
+replace this text with some information about an alien species and you can generate a detailed description of the alien.
+Type something like "comes from a low gravity planet"
+END
+
+Imagine a creature from another world with a unique set of adaptations to a unique environment.   
+<<TEXT>>
+Describe, expound and expand on the creature in detail.  use 500 words, 7 paragraphs:

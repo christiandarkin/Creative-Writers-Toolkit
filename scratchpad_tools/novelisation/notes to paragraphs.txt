@@ -1,0 +1,24 @@
+DESCRIPTION:
+Paste a passage followed by a list of ways to improve and extend it, and those changes will be applied
+EXAMPLE:
+room was a mess.
+felt like her prison.  she deserved it
+Focus: nighttime light on messy living room.  
+
+END
+
+NOTES:
+room was a mess.
+felt like her prison.  she deserved it
+Focus: nighttime light on messy living room.  
+
+
+REWRITE THE ABOVE NOTES TO EXPAND THEM INTO AN IMAGINATIVE PASSAGE.  USE 1 PARAGRAPH, 100 WORDS: Yellow slashes carved their paths to the chest of draws, open like broken teeth.  Sofas slept diagonally across the space between flattened cushions. Jagged angles made of brittle glass shone dully in everything touched by moonlight. It had been like this since he left.   Clothes thrown carelessly over surfaces.  An ashtray, still half full, precariously balanced on the arm of the chair.  No, she could not leave this room.  It was her prison, and it was all she deserved.
+
+NOTES:
+<<TEXT>>
+ponytail guy returned.  had brick (put it on dashboard)
+more cable ties.  tied my feet to base of seat with cable ties.
+Focus:  me trying to struggle - if i make it hard for him, i might get loose later.  he got them tight - had to do it round my boot tops, not my ankles.  that was something.
+
+REWRITE THE ABOVE NOTES TO EXPAND THEM INTO AN IMAGINATIVE PASSAGE.  USE 2 PARAGRAPHS, 300 WORDS:

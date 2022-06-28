@@ -1,0 +1,4 @@
+DESCRIPTION:
+Just like the openai playground - paste in some text and get a response.
+END
+<<TEXT>>

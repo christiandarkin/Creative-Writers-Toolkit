@@ -1,0 +1,10 @@
+DESCRIPTION:
+Synopsis generator:  Replace this text with any notes or inspirations you have about the story you want to write.
+END
+
+INSPIRATION: <<TEXT>>
+
+Use the above inspiration to brainstorm a detailed synopsis for a novel or screenplay, imagine the beginning, middle and end, and the final climax of the story and all spoilers.  Give specific details on all aspectes of the story. Use 500 words, about 6 paragraphs:
+synopsis:
+
+THE STORY BEGINS:

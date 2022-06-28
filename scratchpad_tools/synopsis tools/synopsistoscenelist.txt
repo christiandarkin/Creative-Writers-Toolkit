@@ -1,0 +1,11 @@
+DESCRIPTION:
+Replace this text with your synopsis (or scene), and it will be broken down into scenes
+END
+
+Imagine the following is the synopsis of a novel.  completely rewrite the synopsis, imagining it as a series of 20 scenes in a novel.  Each scene takes place at a specific place and time.  Imagine lots of extra detail, characters and story.  Make each scene a story in itself with a begining, a middle and an end:
+
+<<TEXT>>:
+
+BREAKDOWN:
+
+SCENE0001:

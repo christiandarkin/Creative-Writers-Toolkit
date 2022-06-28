@@ -1,0 +1,15 @@
+DESCRIPTION:
+Brainstorm many different ideas about how to expand the following passage:
+
+END
+
+Brainstorm many different ideas about how to expand the following passage:
+
+PASSAGE:
+
+<<TEXT>>
+
+
+
+DIVERGENT IDEAS TO EXPAND:
+-

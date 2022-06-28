@@ -1,0 +1,9 @@
+DESCRIPTION:
+brainstorm a list of ideas.  Replace this text with a description of what you want listed...
+i.e. descriptions of characters who are thugs working for a lithuanian property magnate in london.
+or dangers you might find on a treasure hunt
+END
+
+brainstorm 10 ideas for <<TEXT>>  imagine each one in great detail, giving a paragraph on each:
+
+1)

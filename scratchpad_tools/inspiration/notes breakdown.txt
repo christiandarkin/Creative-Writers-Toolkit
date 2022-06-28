@@ -1,0 +1,38 @@
+DESCRIPTION:
+turn a brief list of notes into a longer list of smaller details
+END
+
+Break the following list down into a set of simple but detailed steps.  Brainstorm descriptive observations for each step:
+
+he entered his mom's house, bringing pastries
+He looked for her but she wasn’t there.
+He put the pastries on the side
+
+Let’s break this down step by step.
+1)he entered his mom's house, bringing pastries
+   a.The pastries were in a paper bag in his hand
+   b.He fumbled for his keys with his free hand
+   c.He unlocked the back door.
+   d.He entered the house, and closed the door behind him
+2)He looked for her but she wasn’t there.
+   a.he called out for his mom.  No answer
+   b.He looked in the kitchen, she wasn’t there.
+   c.He searched the living room.  He started to get a bit worried.
+   d.He walked to the stairs
+   e.He went up the stairs, calling her name.
+   f.She wasn’t upstairs.  He was concerned now.
+3)He put the pastries on the side
+   a.he came back down the stairs.
+   b.He went into the kitchen
+   c.He put the pastries on the kitchen surface. 
+   d.The surface was empty, clean
+   e The pastries were her favourites, peach kolaches from a store she adored
+-------------------------------------------------------------------------
+Break the following list down into a set of simple but detailed steps.  Brainstorm descriptive observations for each step:
+
+<<TEXT>>
+
+Let’s break this down step by step:
+1)
+[insert]
+15)[2] 

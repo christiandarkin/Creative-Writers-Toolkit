@@ -1,0 +1,32 @@
+DESCRIPTION:
+turn a brief list of actions into a longer list of smaller details
+END
+
+Synopsis of action:
+he entered his mom's house, bringing pastries
+He looked for her but she wasn’t there.
+He put the pastries on the side
+
+Let’s break this down step by step.  Imagine extra details
+1)He walked towards the back of the house.
+The pastries were in a paper bag in his hand
+He fumbled for his keys with his free hand
+He unlocked the back door.
+He entered the house, and closed the door behind him
+2) he called out for his mom.  No answer
+He looked in the kitchen, she wasn’t there.
+He searched the living room.  He started to get a bit worried.
+He walked to the stairs
+He went up the stairs, calling her name.
+She wasn’t upstairs.  He was concerned now.
+3)he came back down the stairs.
+He went into the kitchen
+He put the pastries on the kitchen surface. 
+The surface was empty, clean
+The pastries were her favourites, peach kolaches from a store she adored
+
+Synopsis of action:
+<<TEXT>>
+
+Let’s break this down step by step.  Imagine extra details:
+1)

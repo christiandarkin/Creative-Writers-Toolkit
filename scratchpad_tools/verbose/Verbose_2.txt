@@ -1,0 +1,6 @@
+DESCRIPTION:
+Paste a passage followed by a list of ways to improve and extend it, and those changes will be applied
+END
+
+<<TEXT>>
+REWRITE THE ABOVE DESCRIPTION USING THE DETAILS ABOVE TO EXPAND THE DESCRIPTION INTO AN IMAGINATIVE PASSAGE.  USE 7 PARAGRAPHS, 1000 WORDS:
