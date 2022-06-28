@@ -3,7 +3,8 @@ Creative Writers' Toolkit
 Use artificial intelligence (GPT3) To help with the development of stories, screenplays and novels.
 Stretching the creativity of AI to its limits...
 
-I will add some youtube demos here soon.  For now:
+if you're at all interested in using AI in the creative arts, why not join this Facebook group to connect with others and swap best practices: https://www.facebook.com/groups/395627025698695/
+
 
 This project is an attempt to explore the ways the latest AI technology can help creative writers and authors.
 You'll need a GPT3 openai key to make this work, as well as some knowledge of how to get the code here running on your machine.
