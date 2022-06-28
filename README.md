@@ -5,6 +5,11 @@ Stretching the creativity of AI to its limits...
 
 if you're at all interested in using AI in the creative arts, why not join this Facebook group to connect with others and swap best practices: https://www.facebook.com/groups/395627025698695/
 
+also, take a look at the youtube tutorials here:
+https://www.youtube.com/watch?v=5M8bpU2bAAM
+https://www.youtube.com/watch?v=L0CMp4geY-E
+https://www.youtube.com/watch?v=RWuD5gic19c
+
 
 This project is an attempt to explore the ways the latest AI technology can help creative writers and authors.
 You'll need a GPT3 openai key to make this work, as well as some knowledge of how to get the code here running on your machine.
